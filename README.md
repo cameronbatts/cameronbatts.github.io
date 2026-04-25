@@ -37,6 +37,11 @@ Personal data and analytics portfolio showcasing work in Power BI, Tableau, Pyth
 ### SAS Viya
 - Insight Toys Product & Unit Production Analysis
 - Sports Product Line Performance Analysis
+- European Customer & Retail Sales Analysis
+- Sports Supplier & Facility Products Analysis
+
+### SQL
+- Coming soon
 
 ---
 
